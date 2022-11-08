@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="CustomerService" />
+        <module name="StockService (1)" />
+        <module name="ProductService" />
+        <module name="AccountService (1)" />
+        <module name="AccountService" />
+        <module name="CustomerService (1)" />
+        <module name="StockService" />
+        <module name="ProductService (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AccountService" target="11" />
+      <module name="AccountService (1)" target="11" />
+      <module name="CustomerService" target="11" />
+      <module name="CustomerService (1)" target="11" />
+      <module name="EurekaServer" target="11" />
+      <module name="ProductService" target="11" />
+      <module name="ProductService (1)" target="11" />
+      <module name="StockService" target="11" />
+      <module name="StockService (1)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AccountService" options="-parameters" />
+      <module name="AccountService (1)" options="-parameters" />
+      <module name="CustomerService" options="-parameters" />
+      <module name="CustomerService (1)" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="ProductService" options="-parameters" />
+      <module name="ProductService (1)" options="-parameters" />
+      <module name="StockService" options="-parameters" />
+      <module name="StockService (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

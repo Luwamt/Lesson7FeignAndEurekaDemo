@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AccountService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccountService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccountServiceWithEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccountServiceWithEureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CustomerService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CustomerService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CustomerServiceWithEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CustomerServiceWithEureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductServiceWithEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductServiceWithEureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StockService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StockServiceWithEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StockServiceWithEureka/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
